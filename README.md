@@ -50,7 +50,7 @@
     🤝  I'm open to collaborating on Projects
   </li>
   <li>
-    ✉️  You can contact me at <a href="mailto:mahisalman@hotmail.com">mahisalman@hotmail.com</a>
+    ✉️  You can contact me at <a href="mailto:mahi.salman@gmail.com">mahi.salman@gmail.com</a>
   </li>
 </ul>
 
