@@ -70,7 +70,7 @@
     <img width="435px" src="https://github-readme-stats.vercel.app/api?username=mahisalman&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
   </a>
 <a href="https://github.com/mahisalman">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aronno1920&hide_border=true&theme=dark" alt="mahisalman" />
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=mahisalman&hide_border=true&theme=dark" alt="mahisalman" />
   </a>
 </p>
 <h2>Where to find me</h2>
