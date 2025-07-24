@@ -35,13 +35,35 @@
 </div>
 
 <br />
-<p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
+<p>With over 10 years of experience at Orion Group since 2013, I have been serving as a Senior Project Coordinator, while also leading SAP FI/CO Functional Consulting and SAP Master Data preparation for 10 companies across 2 controlling areas with a user base of 100+ SAP users.
+
+Over the last decade, I have:
+
+    ✅ Led the implementation of 4 major enterprise applications
+
+    ✅ Developed and deployed 2 custom-built applications
+
+    ✅ Provided ongoing support for 10+ enterprise-grade software solutions
+
+    ✅ Currently overseeing 2 new ERP system implementations
+
+As a Project Manager, I lead a cross-functional team of professionals, including Web Developers, Software Engineers, Report Designers, and UI/UX Designers, ensuring seamless delivery from concept to deployment.
+
+In addition:
+
+    🔹 I have hands-on expertise in SAP FI/CO, Master Data Governance, and process optimization
+
+    🔹 I regularly execute business process automation using UiPath RPA tools
+
+    🔹 I am deeply engaged in Python programming, applying it to automation, data handling, and integration tasks
+
+I am now actively pivoting towards Data Science and Artificial Intelligence, combining my domain knowledge with technical skills in Python, machine learning, and AI engineering.</p>
 <ul>
   <li>
     🌍  I'm based in Dhaka, Bangladesh
   </li>
   <li>
-    🌱 I’m currently learning many things like Microservices, Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
+    🌱 I’m Currently transitioning into AI and Data Science engineering, I believe that every day is a learning opportunity. 
   </li>
   <li>
     👯 I’m currently open for work and employment opportunities (remote and relocation)
