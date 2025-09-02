@@ -45,15 +45,15 @@
 <br />
 <p>Project Manager with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in AI Engineering, SQL Server, C#, Python, SAP FI/CO, Uipath RPA, Wordpress, Power BI, Android, Business Intelligence and Transformers etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 Over the last decade, I have:
-
+<ul><li>
     ✅ Led the implementation of 4 major enterprise applications
-    
+    </li><li>
     ✅ Developed and deployed 2 custom-built applications
-    
+    </li><li>
     ✅ Provided ongoing support for 10+ enterprise-grade software solutions
-    
-    ✅ Currently overseeing 2 new ERP system implementations
-    
+    </li><li>
+    ✅ Currently overseeing 2 new ERP system implementations</li>
+</ul>
 As a Project Manager, I lead a cross-functional team of professionals, including Web Developers, Software Engineers, Report Designers, and UI/UX Designers, ensuring seamless delivery from concept to deployment.
 In addition:
 
