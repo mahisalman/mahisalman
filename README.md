@@ -19,6 +19,18 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=apachespark&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?logo=deepnote&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-FF6F00?logo=natural-language-processing&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1E40AF?logo=langchain&logoColor=white)
+  ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
+  
 </div>
 <br />
 
